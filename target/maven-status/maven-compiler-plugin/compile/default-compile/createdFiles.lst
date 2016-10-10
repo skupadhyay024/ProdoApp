@@ -1,0 +1,13 @@
+com\skuera\config\HibernateConfiguration.class
+com\skuera\service\SerI.class
+com\skuera\dao\DaoI.class
+com\skuera\config\AppConfig.class
+com\skuera\dao\DaoImpl.class
+com\skuera\entity\Order.class
+com\skuera\entity\Product.class
+com\skuera\service\SerImpl.class
+com\skuera\web\MyController.class
+com\skuera\web\SearchController.class
+com\skuera\config\AppInitializer.class
+com\skuera\form\ProductForm.class
+com\skuera\form\SearchForm.class
